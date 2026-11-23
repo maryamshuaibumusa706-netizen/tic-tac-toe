@@ -1,0 +1,9 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, sans-serif; background: #0f172a; color: white; text-align: center; }
+.container { max-width: 380px; margin: 0 auto; padding: 24px; }
+#board { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 20px 0; }
+.cell { height: 100px; font-size: 42px; font-weight: 800; background: #1e293b; color: white; border: 2px solid #22d3ee; border-radius: 14px; cursor: pointer; }
+.cell.x { color: #22d3ee; }
+.cell.o { color: #f472b6; }
+#status { font-size: 20px; font-weight: 700; }
+#reset { padding: 12px 20px; background: #22d3ee; border: none; border-radius: 10px; font-weight: 800; cursor: pointer; }
