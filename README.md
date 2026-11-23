@@ -1,7 +1,7 @@
 # ❌ Tic-Tac-Toe
 A 2-player Tic-Tac-Toe game with win detection and score tracking.
 
-**Live Demo:** https://maryamshuaibumusa706-netizen.github.io/tic-tac-toe/
+**Live Demo:*  https://maryamshuaibumusa706-netizen.github.io/Tic-Tac-Toe/
 
 ### Features
 - 2-player X vs O gameplay
